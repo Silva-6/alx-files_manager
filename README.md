@@ -1,7 +1,5 @@
 # Files Manager
 
-[![Coverage Status](https://coveralls.io/repos/github/Sanctus-Peter/alx-files_manager/badge.svg?branch=main)](https://coveralls.io/github/Sanctus-Peter/alx-files_manager?branch=main)
-
 A simple file management API built with Express, MongoDB, Redis, Bull, and Node.js.
 
 ## Requirements
@@ -45,7 +43,3 @@ Start the Redis and MongoDB services on your system and run `yarn start-server` 
 ## Documentation
 
 + TODO: Generate OpenAPI documentation with [**apidoc**](https://www.npmjs.com/package/apidoc).
-+
-## Authors
-- Peter Sanctus [here](@Sanctus-Peter)
-- Mahadi Abuhuraira [here](@mamt4real)
